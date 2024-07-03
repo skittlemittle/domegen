@@ -1,0 +1,14 @@
+- pwa?
+
+done
+- circles
+- vue js controls etc
+- handle scaling
+- shrink and grow canvas with window!!!!
+- draw ellipses
+- circle + ellipse, separate colors
+- set colors
+- toggle grid
+- nice mobile version
+  - different controls
+
